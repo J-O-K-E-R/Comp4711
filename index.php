@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'hello out there';
+        echo ' Student ID: A00896174 <br>'
+        . 'Name: Justin McLennan'
+        ;
         ?>
     </body>
 </html>
